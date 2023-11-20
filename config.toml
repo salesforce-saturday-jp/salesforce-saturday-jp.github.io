@@ -1,0 +1,17 @@
+baseURL = 'http://localhost:1313'
+languageCode = 'ja-JP'
+title = 'Salesforce Saturday Japan'
+theme = "paper"
+
+[params]
+  twitter = 'sfsattokyo'
+  github = 'salesforce-saturday-japan'
+  rss = true
+  name = 'Salesforce Saturday Japan'
+  avatar = 'salesforcesaturdayjapan@gmail.com'
+  bio = '土曜日にSalesforceの勉強をしたいみなさんを繋げて一緒に盛り上がることがミッションです🌏 '
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
