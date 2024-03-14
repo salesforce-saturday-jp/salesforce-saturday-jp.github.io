@@ -1,7 +1,7 @@
 [
   {
-  "name": "池袋",
-  "url": "https://salesforcesaturday-ikebukuro.connpass.com/"
+    "name": "池袋",
+    "url": "https://salesforcesaturday-ikebukuro.connpass.com/"
   },
   {
     "name": "茅場町",
@@ -22,5 +22,21 @@
   {
     "name": "銀座",
     "url": "https://salesforcesaturday-kayabacho.connpass.com/"
+  },
+  {
+    "name": "高知",
+    "url": "https://salesforcesaturday-kochi.connpass.com/"
+  },
+  {
+    "name": "麻布台",
+    "url": "https://salesforcesaturday-shift.connpass.com/"
+  },
+  {
+    "name": "札幌",
+    "url": "https://salesforcesaturday-sapporo.connpass.com/"
+  },
+  {
+    "name": "赤坂",
+    "url": "https://salesforcesaturday-akasaka.connpass.com/"
   }
 ]
