@@ -5,7 +5,7 @@ theme = "paper"
 
 [params]
   twitter = 'sfsattokyo'
-  github = 'salesforce-saturday-japan'
+  github = 'salesforce-saturday-jp'
   rss = true
   name = 'Salesforce Saturday Japan'
   avatar = 'salesforcesaturdayjapan@gmail.com'
